@@ -1,0 +1,7 @@
+title: Adam Gutonski
+logo: /assets/img/logo.png
+description: "all we have to decide is what to do with the time that is given us..."
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minimal
+resume_file: "/assets/resume/resume.pdf"
