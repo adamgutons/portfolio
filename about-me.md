@@ -2,6 +2,11 @@
 layout: default
 ---
 
+[Projects](./projects.html).
+[About](./about-me.html).
+[Github](https://github.com/adamgutons/){:target="_blank"}.
+[Resume](./assets/resume/resume.pdf){:target="_blank"}.
+
 # About Me...
 
 Hello there! Beyond the tech world here is a snapshot of who I am.
