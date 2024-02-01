@@ -17,7 +17,7 @@ layout: default
 >A python application that provides an interface for transforming geospatial coordinates from one spatial reference system 
 to another based on a user provided EPSG value or PROJ string (the [PROJ](https://proj.org/en/9.3/) engine powers the 
 transformation functions).  The application also provides python wrapper classes based on OGR Point, Line, and Polygon functionality.
-The wrapper classes use attribute getters to mimic the ESRI geometry classes, and allow for similar attribute retrieval,
+The wrapper classes use attribute getters to mimic the ESRI geometry classes, and allow for similar attribute retrieval
 
 + i.e. `geometry.points, geometry.firstPoint, geometry.X, geometry.spatialReference`
 
